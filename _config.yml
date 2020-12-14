@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "(Rose) Wenxin Zhao"
   avatar           : "profile.png"
-  bio              : "Undergraduate student from the Georgia Institute of Technology"
+  bio              : "Undergraduate senior from the Georgia Institute of Technology"
   location         : "Atlanta, GA"
-  employer         : "VMWare"
+  employer         : 
   pubmed           : 
   googlescholar    :
   email            : "wenxinrosezhao@gatech.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/wenxin-zhao/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
